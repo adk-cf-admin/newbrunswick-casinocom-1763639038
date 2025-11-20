@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://newbrunswick-casino.com/
+Sitemap: https://newbrunswick-casino.com/sitemap.xml

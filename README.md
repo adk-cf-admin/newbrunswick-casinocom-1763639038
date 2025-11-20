@@ -1,2 +1,9 @@
-# newbrunswick-casinocom-1763639038
-Site: newbrunswick-casino.com
+# newbrunswick-casino.com
+
+
+
+Built on: 2025-11-20 11:44:00
+
+Available languages:
+- en-CA
+- langs
